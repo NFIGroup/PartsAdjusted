@@ -1,0 +1,12 @@
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\obj\Debug\RightNow_Workspace_Add_In3.Properties.Resources.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\obj\Debug\RightNow_Workspace_Add_In3.WorkspaceAddIn.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\obj\Debug\Parts Adjusted.csproj.GenerateResource.Cache
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\bin\Debug\RightNow Workspace Add-In3.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\bin\Debug\RightNow Workspace Add-In3.pdb
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\bin\Debug\RightNow.AddIns.AddInViews.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\bin\Debug\RightNow.AddIns.AddInViews.xml
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\obj\Debug\RightNow Workspace Add-In3.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\obj\Debug\RightNow Workspace Add-In3.pdb
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\obj\Debug\Parts Adjusted.csprojResolveAssemblyReference.cache
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\obj\Debug\Parts_Adjusted.WorkspaceAddIn.resources
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\RightNow Workspace Add-In3\RightNow Workspace Add-In3\obj\Debug\Parts_adjusted.Properties.Resources.resources
